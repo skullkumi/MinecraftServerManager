@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+build/work/
+build/work-onedir/
+dist/
+.pytest_cache/
+*.msmdownload

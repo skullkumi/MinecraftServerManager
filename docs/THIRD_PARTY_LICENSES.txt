@@ -1,0 +1,22 @@
+本ソフトウェア (MinecraftServerManager.exe) には以下のソフトウェアが含まれています。
+
+■ Python 3.14 (PSF License)
+  https://www.python.org/  /  https://docs.python.org/3/license.html
+
+■ Qt 6 / PySide6 6.12 / Shiboken6 (GNU LGPL v3)
+  https://www.qt.io/  /  https://wiki.qt.io/Qt_for_Python
+  LGPL v3 の全文: https://www.gnu.org/licenses/lgpl-3.0.html
+  Qtのソースコードは https://download.qt.io/ から入手できます。
+  本ソフトウェアのソースコード一式を用いて、別のバージョンのPySide6/Qtで実行・再ビルドすることができます。
+
+■ psutil (BSD 3-Clause License)
+  https://github.com/giampaolo/psutil
+
+■ PyInstaller ブートローダー (GPL v2 with bootloader exception)
+  https://pyinstaller.org/
+
+実行時に本ソフトウェアがダウンロードするもの (同梱はしていません):
+  ・Minecraftサーバー (Mojang / Microsoft) … Minecraft EULA に従います
+  ・Paper (PaperMC, GPL v3) / Fabric (Apache 2.0) / Forge (LGPL 2.1) / NeoForge (LGPL 2.1)
+  ・Eclipse Temurin (GPL v2 with Classpath Exception)
+  ・MOD (各MOD作者のライセンスに従います)
